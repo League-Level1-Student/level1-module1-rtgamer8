@@ -40,7 +40,3 @@ System.out.println("casting spell: " + spell);
 }
 
 
-
-
-
-
